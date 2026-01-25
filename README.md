@@ -1,4 +1,5 @@
 Hi 👋 I'm Khalid Shire
+
 💫 About Me:
 I am a second-year computer science/ data science student at Augsburg University, passionate about backend, cloud, building reliable services, automation, and data pipelines, with a long-term path toward ML infrastructure.
 
