@@ -5,18 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## ✨ About Me
 
-I am a computer science and data science student with a strong focus on backend engineering, cloud infrastructure, and machine learning systems. I build reliable services, automation pipelines, and data-driven platforms with an eye toward scalability, security, and real-world business impact.
-
----
+I am a Computer Science and Data Science student specializing in backend and cloud software engineering, building reliable services, automation, and data pipelines, with a long-term path toward ML infrastructure.
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with **scikit-learn**
 - ☁️ Building cloud-native backend services with **Spring Boot, FastAPI, and AWS**
-- 🛠 Developing automation tools and data pipelines for AI-driven platforms
-
-Check out my **coding portfolio**:  
-🔗 https://your-portfolio-link-here.com
+- 👀 Currently diving deeper in both Cloud-Developement and Machine Learning
 
 ---
 
