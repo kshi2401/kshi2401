@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Khalid Shire
+💫 About Me:
+I am a second-year computer science/ data science student at Augsburg University, passionate about backend, cloud, building reliable services, automation, and data pipelines, with a long-term path toward ML infrastructure.
 
-<!--
-**kshi2401/kshi2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 What I'm Up To
+🤖 Exploring Machine Learning with scikit-learn
+💻 Building Spring Boot applications with PostgreSQL
+👀 Currently diving deeper in both Cloud-Developement and Distrubted Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me:
+www.linkedin.com/in/khalid-shire-46077b31a
+
+💻 Tech Stack:
+Languages: Python Java SQL Golang JavaScript TypeScript
+
+Cloud & DevOps: AWS Git Docker Terraform
+
+Databases/Frameworks: Spring Boot FastAPI PostgreSQL Redis MangoDB DynamoDB 
