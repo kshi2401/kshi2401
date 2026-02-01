@@ -11,7 +11,7 @@ I am a Computer Science and Data Science student specializing in backend and clo
 
 - 🤖 Exploring Machine Learning with **scikit-learn**
 - ☁️ Building cloud-native backend services with **Spring Boot, FastAPI, and AWS**
-- 👀 Currently diving deeper in both Cloud-Developement and Machine Learning
+- 👀 Currently diving deeper in both Cloud-Developement and Distributed Systems
 
 ---
 
